@@ -3,7 +3,7 @@
 
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluşturduğumuz ilk repo, içerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-![github](gorsel/betul_github.png)
+![github](betul_github.png)
 
 ## Installation
 
